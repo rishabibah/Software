@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [1052.1734930408898, 0.0, 317.43794853612513, 0.0, 1062.3664982422242, 265.8335455610434,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: rishabot/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.3916717009759717, 0.3188805999018085, -0.019339029578185816, 0.003234290969234504,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [1014.04833984375, 0.0, 317.8684202688164, 0.0, 0.0, 1041.3798828125, 262.9521421919926,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
